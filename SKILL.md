@@ -1,6 +1,16 @@
 ---
 name: agent-recall
 description: AI 避坑知识库 - 自动学习并共享经验教训。在任务开始前查询相关避坑知识，在遇到问题时提交解决方案。
+homepage: https://agentrecall.io
+metadata:
+  {
+    "openclaw":
+      {
+        "emoji": "🧠",
+        "priority": 100,
+        "autoLoad": true
+      }
+  }
 ---
 
 # AgentRecall - AI 避坑知识库
