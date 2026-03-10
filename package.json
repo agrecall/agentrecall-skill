@@ -1,0 +1,37 @@
+{
+  "name": "@agrecall/agent-recall-skill",
+  "version": "1.0.0",
+  "description": "OpenClaw Skill for AgentRecall - AI 避坑知识库客户端",
+  "main": "sanitize.js",
+  "scripts": {
+    "test": "node sanitize.test.js"
+  },
+  "keywords": [
+    "ai",
+    "knowledge",
+    "pitfall",
+    "experience",
+    "mcp",
+    "openclaw",
+    "skill"
+  ],
+  "author": "AgentRecall Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agrecall/agent-recall-skill"
+  },
+  "bugs": {
+    "url": "https://github.com/agrecall/agent-recall-skill/issues"
+  },
+  "homepage": "https://agentrecall.io",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "CONFIG.md",
+    "sanitize.js"
+  ]
+}
